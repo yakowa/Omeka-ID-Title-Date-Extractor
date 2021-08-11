@@ -18,7 +18,7 @@ This application uses the [Omeka API](https://omeka.org/s/docs/developer/api/) t
 
 #### Download
 
-Go to the [GitHub Page](https://github.com/yakowa/Omeka-Title-Desc-Extractor) and click the green `Code` button, then navigate to the `Download ZIP` button. This will download the application in a compressed folder. Simply right click this folder and select `Extract All`.
+Go to the [GitHub Page](https://github.com/yakowa/Omeka-Title-Desc-Extractor) and click the green `Code` button, then navigate to the `Download ZIP` button. This will download the application in a compressed folder. Simply right-click this folder and select `Extract All`.
 
 #### Clone The Repository
 
@@ -34,7 +34,7 @@ git clone https://github.com/yakowa/Omeka-Title-Desc-Extractor
 
 **Note:** Please see the [Dependecies](#dependecies) before reading the following!
 
-Simply run the `RUN.bat` script (right click, then Open), this will open your terminal execuing the script on Node.JS.
+Simply run the `RUN.bat` script (right-click, then Open), this will open your terminal executing the script on Node.JS.
 
 Alternatively, you can simply run
 ```bash
@@ -53,7 +53,7 @@ The program will then create a file named 'Resulting CSV.txt' with every ID, Tit
 
 * You must have [Node.JS](https://nodejs.org/) installed on your computer for this application to run.
 
-Once Node.JS is installed please run the `INSTALL.bat` script (right click, then Open), this will open your terminal and install the dependecies. Once done you may close your terminal.
+Once Node.JS is installed please run the `INSTALL.bat` script (right-click, then Open), this will open your terminal and install the dependencies. Once done you may close your terminal.
 
 Alternatively, you can simply run
 ```bash
